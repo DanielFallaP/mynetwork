@@ -1,0 +1,11 @@
+install instructions:
+
+npm install koa@next
+npm install koa-mongo
+npm install koa-better-body
+npm install mongodb
+npm install uuid
+npm install crypto-js
+
+finally:
+node Server.js
